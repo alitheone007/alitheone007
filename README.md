@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alitheone007
 - 👀 I’m interested in JavaScript ; Python ; Smart Contracts
 - 🌱 I’m currently learning Solidity basics
-- 💞️ I’m looking to collaborate as front end developer as apprentice 
+- 💞️ I’m looking to collaborate as fullstack developer as apprentice 
 - 📫 How to reach me 9849017489 whatsapp / theone4uali@gmail.com
 
 <!---
